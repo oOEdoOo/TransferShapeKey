@@ -1,7 +1,7 @@
 # TransferShapeKey.py 使用说明
 
 TransferShapeKey.py 是一个用于在 Blender 中复制形状键的插件工具。
-部分代码参考了youtube上的[视频]:(https://www.youtube.com/watch?v=Q13pBes8Wfc&t=31s)，同时也请教了ChatGPT。
+部分代码参考了youtube上的[视频](https://www.youtube.com/watch?v=Q13pBes8Wfc&t=31s)，同时也请教了ChatGPT。
 
 ## 安装
 
