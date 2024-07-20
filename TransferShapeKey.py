@@ -1,15 +1,15 @@
 bl_info = {
-    "name": "Shapekey Copy",
-    "blender": (4, 1, 0),
+    "name": "TransferShapeKey",
+    "blender": (4, 2, 0),
     "category": "Tool",
-    "author": "Liu Min, Blender Bob, Chat GPT",
+    "author": "oOEdoOo, Blender Bob, Chat GPT",
 }
 
 import bpy
 from bpy.props import PointerProperty
 
 class ShapekeyTransferPanel(bpy.types.Panel):
-    bl_label = "Shapekeys Copy"
+    bl_label = "TransferShapeKey"
     bl_idname = "PT_ShapekeyTransfer"
     bl_space_type = 'VIEW_3D'
     bl_region_type = 'UI'

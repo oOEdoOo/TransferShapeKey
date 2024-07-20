@@ -10,7 +10,7 @@ TransferShapeKey.py 是一个用于在 Blender 中复制形状键的插件工具
 3. 进入 "Edit" -> "Preferences"。
 4. 在 "Add-ons" 选项卡中，点击 "Install..." 按钮。
 5. 选择下载的 TransferShapeKey.py 文件并点击 "Install Add-on"。
-6. 启用插件，勾选 TransferShapeKey.py。
+6. 启用插件，勾选 TransferShapeKey。
 
 ## 作用
 
